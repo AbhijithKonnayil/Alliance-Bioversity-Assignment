@@ -133,3 +133,5 @@ dmypy.json
 *.swo
 *~
 .DS_Store
+
+uploads/
